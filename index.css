@@ -1,0 +1,18 @@
+body {
+    background-color: palegreen;
+}
+.btn {
+    cursor: pointer;
+}
+h1 {
+    transition: color .5s ease-in-out;
+}
+.clicked {
+    color : palevioletred;
+}
+.form, .greetings {
+    display: none;
+}
+.showing {
+    display: block;
+}
